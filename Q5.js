@@ -9,5 +9,5 @@ else if(numberB>numberA && numberB>numberC){
     console.log('number B is big')
 }
 else{
-    console.log('number C is bigger')
+    console.log('number C is boro')
 }
